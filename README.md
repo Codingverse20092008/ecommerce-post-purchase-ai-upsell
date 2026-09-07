@@ -2,6 +2,12 @@
 
 This project simulates a customer placing an order and sends the data to an N8N webhook for automation testing.
 
+## 🚀 Live Demo
+
+https://github.com/Codingverse20092008/ecommerce-post-purchase-ai-upsell/raw/main/ecommerce-ai-upsell-demo.mp4
+
+> 💡 *If the inline player doesn't render automatically, you can [watch the demo video here](https://github.com/Codingverse20092008/ecommerce-post-purchase-ai-upsell/blob/main/ecommerce-ai-upsell-demo.mp4).*
+
 ## Setup Instructions
 
 ### 1. Install Dependencies
